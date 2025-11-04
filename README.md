@@ -10,7 +10,7 @@ Preprocessing: Removed nulls, scaled data with MinMaxScaler
 Algorithms: K-Means (best k=3), DBSCAN for noise detection
 
 Evaluation: Silhouette Score = 0.3202, PCA visualization for 2D clustering
-https://github.com/Deepika486892/Amazon-music-clustering/blob/c4f66801cce880b742aa559e461c599b85e67e2b/PCA.png
+[https://github.com/Deepika486892/Amazon-music-clustering/blob/c4f66801cce880b742aa559e461c599b85e67e2b/PCA.png](https://github.com/Deepika486892/Amazon-music-clustering/blob/c9c5afa6f1e2e2058fd18c2d7bd03b3e4dc17879/PCA.png)
 
 Cluster 0: High energy and danceability → party songs
 
